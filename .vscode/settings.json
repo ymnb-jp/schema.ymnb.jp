@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.kml": "xml"
+  },
+  "eslint.validate": ["xml"]
+}
